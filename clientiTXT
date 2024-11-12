@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Asterio",
+        "cognome": "Ragno",
+        "email": "asterio.rocco@example.com"
+    },
+    {
+        "nome": "Beatrice",
+        "cognome": "Verdi",
+        "email": "beatrice.verdi@example.com"
+    },
+    {
+        "nome": "Carlo",
+        "cognome": "Ferrari",
+        "email": "carlo.ferrari@example.com"
+    },
+    {
+        "nome": "Diana",
+        "cognome": "Russo",
+        "email": "diana.russo@example.com"
+    },
+    {
+        "nome": "Edoardo",
+        "cognome": "Ricci",
+        "email": "edoardo.ricci@example.com"
+    },
+    {
+        "nome": "Francesca",
+        "cognome": "Bianchi",
+        "email": "francesca.bianchi@example.com"
+    },
+    {
+        "nome": "Giorgio",
+        "cognome": "Rossi",
+        "email": "giorgio.rossi@example.com"
+    },
+    {
+        "nome": "Helena",
+        "cognome": "Marino",
+        "email": "helena.marino@example.com"
+    },
+    {
+        "nome": "Ivano",
+        "cognome": "Grasso",
+        "email": "ivano.grasso@example.com"
+    },
+    {
+        "nome": "Laura",
+        "cognome": "Conti",
+        "email": "laura.conti@example.com"
+    }
+]

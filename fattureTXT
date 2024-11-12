@@ -1,0 +1,62 @@
+[
+    {
+        "numeroFattura": "A07",
+        "importo": 1070,
+        "iva": 20,
+        "cliente": 1
+    },
+    {
+        "numeroFattura": "B12",
+        "importo": 850,
+        "iva": 22,
+        "cliente": 2
+    },
+    {
+        "numeroFattura": "C33",
+        "importo": 645,
+        "iva": 18,
+        "cliente": 3
+    },
+    {
+        "numeroFattura": "D45",
+        "importo": 910,
+        "iva": 19,
+        "cliente": 4
+    },
+    {
+        "numeroFattura": "E56",
+        "importo": 1200,
+        "iva": 21,
+        "cliente": 5
+    },
+    {
+        "numeroFattura": "F67",
+        "importo": 775,
+        "iva": 20,
+        "cliente": 6
+    },
+    {
+        "numeroFattura": "G78",
+        "importo": 540,
+        "iva": 22,
+        "cliente": 7
+    },
+    {
+        "numeroFattura": "H89",
+        "importo": 1330,
+        "iva": 20,
+        "cliente": 8
+    },
+    {
+        "numeroFattura": "I90",
+        "importo": 970,
+        "iva": 19,
+        "cliente": 9
+    },
+    {
+        "numeroFattura": "J01",
+        "importo": 685,
+        "iva": 21,
+        "cliente": 10
+    }
+]
